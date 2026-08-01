@@ -2,7 +2,7 @@ saldo=int(input("Ingrese su saldo: "))
 opcion=0
 
 while opcion!=4:
-    print("======Acejero Automatico======")
+    print("======Cajero Automatico======")
     print("1. Consultar Saldo")
     print ("2. Depositar dinero")
     print("3. Retirar dinero")
